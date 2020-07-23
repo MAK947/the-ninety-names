@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import CatsList from '../components/CatsList';
+import NamesList from '../components/NamesList';
 import './App.css';
 import SearchBox from '../components/SearchBox';
 import LoadScreenIcon from '../components/LoadScreenIcon';
@@ -13,26 +13,28 @@ export default class App extends Component {
         //state usually lives in parent component
         //state consists of all things that can change
         this.state = {
-            cats: [],
+            names: [],
             searchField:''
         }
     }
 
-    onCatNameSearch = (event) => {
+    onNameSearch = (event) => {
         this.setState({searchField : event.target.value})
     }
 
     showContent = () => {
-        const {cats, searchField } = this.state;
-        const filterdCats = cats.filter(cat => cat.name.toLowerCase().includes(searchField.toLowerCase()));
-        return !cats.length?<LoadScreenIcon/>:<CatsList cats={filterdCats} />
+        const {names, searchField } = this.state;
+        const filterdnames = names.filter(name => name.name.toLowerCase().includes(searchField.toLowerCase()));
+        return !names.length?<LoadScreenIcon/>:<NamesList names={filterdnames} />
     }
 
     render(){
         return (
             <div className="tc">
+                <div className="f1">
                 <h1>Asma Ul Husna</h1>
-                <SearchBox searchChange={this.onCatNameSearch}/>
+                </div>
+                <SearchBox searchChange={this.onNameSearch}/>
                 <Scroll>
                     <ErrorBoundary>
                         {this.showContent()}
@@ -43,10 +45,10 @@ export default class App extends Component {
 
     //since it is part of react, no need for arrow functions
     componentDidMount(){
-        fetch('https://mak947.github.io/json-files/cats.json')
+        fetch('https://mak947.github.io/json-files/names.json')
         .then(response =>response.json())
-        .then(cats =>{
-            this.setState({cats: cats});
+        .then(names =>{
+            this.setState({names: names});
         });
     }
 }
