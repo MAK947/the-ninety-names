@@ -8,7 +8,13 @@
 
 h1 {
   font-family: "UTM Beautiful Caps";
-  color:rgb(134, 40, 126);
+  color:darkgreen;
   font-weight: 400;
   -webkit-text-stroke: 0.4px black;
+}
+
+h6{
+  font-family: Georgia;
+  color:white;
+  -webkit-text-stroke: 0.6px black;
 }

@@ -33,6 +33,7 @@ export default class App extends Component {
             <div className="tc">
                 <div className="f1">
                 <h1>Asma Ul Husna</h1>
+                <h6>The Most Beautiful Names</h6>
                 </div>
                 <SearchBox searchChange={this.onNameSearch}/>
                 <Scroll>
