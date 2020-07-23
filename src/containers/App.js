@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import CatsList from '../components/CatsList';
-import logo from './logo.png';
+import './App.css';
 import SearchBox from '../components/SearchBox';
 import LoadScreenIcon from '../components/LoadScreenIcon';
 import Scroll from '../components/Scroll';
@@ -31,7 +31,7 @@ export default class App extends Component {
     render(){
         return (
             <div className="tc">
-                <img src={logo} className="w-20" alt="logo" />
+                <h1>Asma Ul Husna</h1>
                 <SearchBox searchChange={this.onCatNameSearch}/>
                 <Scroll>
                     <ErrorBoundary>

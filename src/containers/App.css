@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "UTM Beautiful Caps";
+  font-style: normal;
+  font-weight: normal;
+  src: local("UTM Beautiful Caps"),
+    url("UTM Beautiful Caps.woff") format("woff");
+}
+
+h1 {
+  font-family: "UTM Beautiful Caps";
+}
