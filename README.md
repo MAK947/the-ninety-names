@@ -1,3 +1,10 @@
+Issues :-
+Adding images to cards
+Adding tafseer to back of cards
+Flip card when mouse pointer enters card, flip to front when mouse pointer leaves card
+Adding video links to json file
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

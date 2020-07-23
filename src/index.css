@@ -4,7 +4,7 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  background : linear-gradient(to right, rgb(146, 199, 179) 0%, rgb(41, 206, 120) 100%);
+  background : linear-gradient(to right, rgb(167, 208, 134), rgb(51, 158, 64));
 }
 
 code {
