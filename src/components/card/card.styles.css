@@ -10,3 +10,8 @@
     font-family: 'AAAGoldenLotus Stg1_Ver1 Regular';
     font-size: xxx-large;
 }
+
+.custom{
+    background-image: url('../../img/card.png');
+    background-repeat: repeat;
+}

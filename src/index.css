@@ -4,7 +4,8 @@ body {
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
-  background : linear-gradient(to right, rgb(167, 208, 134), rgb(51, 158, 64));
+  background-image: url('./img/img.jpg');
+  background-repeat: repeat;
 }
 
 code {
