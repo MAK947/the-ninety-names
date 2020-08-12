@@ -1,5 +1,5 @@
 import React from 'react';
-import Card from './Card';
+import Card from './card.component';
 import { v4 as uuidv4 } from 'uuid';
 //returns an array
 const NamesList = ({names}) => {

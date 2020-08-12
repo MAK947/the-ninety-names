@@ -1,17 +1,14 @@
 import React, { Component } from 'react';
-import NamesList from '../components/NamesList';
-import './App.css';
-import SearchBox from '../components/SearchBox';
-import LoadScreenIcon from '../components/LoadScreenIcon';
-import Scroll from '../components/Scroll';
-import ErrorBoundary from '../components/ErrorBoundary';
+import NamesList from '../components/namesList.component';
+import './app.styles.css';
+import SearchBox from '../components/searchBox.component';
+import LoadScreenIcon from '../components/loadScreenIcon.component';
+import Scroll from '../components/scroll.component';
+import ErrorBoundary from '../components/errorBoundary.component';
 
 export default class App extends Component {
     constructor(){
-        //calls constructor of components
         super();
-        //state usually lives in parent component
-        //state consists of all things that can change
         this.state = {
             names: [],
             searchField:''
@@ -44,7 +41,6 @@ export default class App extends Component {
             </div>)
     }
 
-    //since it is part of react, no need for arrow functions
     componentDidMount(){
         fetch('https://mak947.github.io/json-files/names.json')
         .then(response =>response.json())
