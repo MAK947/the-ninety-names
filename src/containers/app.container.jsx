@@ -29,12 +29,28 @@ export default class App extends Component {
     }
 
     onNameOfTheDay = () =>{
-        //let index = Math.floor(Math.random()*99);
-        let date = new Date();
-        let index = (date.getDate() + date.getMonth() + date.getFullYear())%99;
+        let index = this.getIndex();
         this.state.nameOfday
         ?this.setState({searchField:"",nameOfday:false})
         :this.setState({searchField:this.state.names[index].transliteration,nameOfday:true});
+    }
+
+    hashCode = dateString =>{
+        var hash = 0, i, chr;
+        for (i = 0; i < dateString.length; i++) {
+          chr   = dateString.charCodeAt(i);
+          hash  = ((hash << 5) - hash) + chr;
+          hash |= 0; // Convert to 32bit integer
+        }
+        return hash;
+    }
+    
+    getIndex = () =>{
+        return this.lessThan99(this.hashCode(new Date().toDateString()));
+    }
+    
+    lessThan99 = num => {
+        return Math.abs(num)%99;
     }
 
     render(){
