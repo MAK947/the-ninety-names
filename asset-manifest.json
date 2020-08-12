@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/the-ninety-names/static/css/main.b88e2bf1.chunk.css",
-    "main.js": "/the-ninety-names/static/js/main.4be8ecca.chunk.js",
-    "main.js.map": "/the-ninety-names/static/js/main.4be8ecca.chunk.js.map",
+    "main.css": "/the-ninety-names/static/css/main.ffb7d2e6.chunk.css",
+    "main.js": "/the-ninety-names/static/js/main.a0c14092.chunk.js",
+    "main.js.map": "/the-ninety-names/static/js/main.a0c14092.chunk.js.map",
     "runtime-main.js": "/the-ninety-names/static/js/runtime-main.ff3543b7.js",
     "runtime-main.js.map": "/the-ninety-names/static/js/runtime-main.ff3543b7.js.map",
     "static/css/2.cc2d33b2.chunk.css": "/the-ninety-names/static/css/2.cc2d33b2.chunk.css",
-    "static/js/2.0c14b985.chunk.js": "/the-ninety-names/static/js/2.0c14b985.chunk.js",
-    "static/js/2.0c14b985.chunk.js.map": "/the-ninety-names/static/js/2.0c14b985.chunk.js.map",
+    "static/js/2.382e8bae.chunk.js": "/the-ninety-names/static/js/2.382e8bae.chunk.js",
+    "static/js/2.382e8bae.chunk.js.map": "/the-ninety-names/static/js/2.382e8bae.chunk.js.map",
     "index.html": "/the-ninety-names/index.html",
-    "precache-manifest.b50b3d04eff7350713ef28816feb306a.js": "/the-ninety-names/precache-manifest.b50b3d04eff7350713ef28816feb306a.js",
+    "precache-manifest.211c5d9175557bdfbaa01f5c296330cb.js": "/the-ninety-names/precache-manifest.211c5d9175557bdfbaa01f5c296330cb.js",
     "service-worker.js": "/the-ninety-names/service-worker.js",
     "static/css/2.cc2d33b2.chunk.css.map": "/the-ninety-names/static/css/2.cc2d33b2.chunk.css.map",
-    "static/css/main.b88e2bf1.chunk.css.map": "/the-ninety-names/static/css/main.b88e2bf1.chunk.css.map",
-    "static/js/2.0c14b985.chunk.js.LICENSE.txt": "/the-ninety-names/static/js/2.0c14b985.chunk.js.LICENSE.txt",
+    "static/css/main.ffb7d2e6.chunk.css.map": "/the-ninety-names/static/css/main.ffb7d2e6.chunk.css.map",
+    "static/js/2.382e8bae.chunk.js.LICENSE.txt": "/the-ninety-names/static/js/2.382e8bae.chunk.js.LICENSE.txt",
     "static/media/card.styles.css": "/the-ninety-names/static/media/AAAGoldenLotus Stg1_Ver1 Regular.57502ab1.ttf",
     "static/media/app.styles.css": "/the-ninety-names/static/media/UTM Beautiful Caps.d7baf1b4.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.ff3543b7.js",
     "static/css/2.cc2d33b2.chunk.css",
-    "static/js/2.0c14b985.chunk.js",
-    "static/css/main.b88e2bf1.chunk.css",
-    "static/js/main.4be8ecca.chunk.js"
+    "static/js/2.382e8bae.chunk.js",
+    "static/css/main.ffb7d2e6.chunk.css",
+    "static/js/main.a0c14092.chunk.js"
   ]
 }

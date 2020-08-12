@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-ninety-names/precache-manifest.b50b3d04eff7350713ef28816feb306a.js"
+  "/the-ninety-names/precache-manifest.211c5d9175557bdfbaa01f5c296330cb.js"
 );
 
 self.addEventListener('message', (event) => {
