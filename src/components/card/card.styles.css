@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "AAAGoldenLotus Stg1_Ver1 Regular";
+    font-style: normal;
+    font-weight: normal;
+    src: local("AAAGoldenLotus Stg1_Ver1 Regular"),
+      url("AAAGoldenLotus Stg1_Ver1 Regular.ttf") format("ttf");
+}
+
+#name{
+    font-family: 'AAAGoldenLotus Stg1_Ver1 Regular';
+    font-size: xxx-large;
+}
