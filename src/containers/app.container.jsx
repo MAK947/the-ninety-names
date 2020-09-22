@@ -71,7 +71,7 @@ export default class App extends Component {
     }
 
     componentDidMount(){
-        fetch('https://mak947.github.io/json-files/names.json')
+        fetch('https://maazahmadkhan.github.io/json-files/names.json')
         .then(response =>response.json())
         .then(names =>{
             this.setState({names: names});
