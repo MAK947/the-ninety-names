@@ -1,3 +1,3 @@
 See live :-
 
-https://mak947.github.io/the-ninety-names/
+https://maazahmadkhan.github.io/asma-ul-husna/
