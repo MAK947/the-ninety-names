@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/the-ninety-names/static/css/main.5fd1c47d.chunk.css",
-    "main.js": "/the-ninety-names/static/js/main.12c63807.chunk.js",
-    "main.js.map": "/the-ninety-names/static/js/main.12c63807.chunk.js.map",
-    "runtime-main.js": "/the-ninety-names/static/js/runtime-main.ff3543b7.js",
-    "runtime-main.js.map": "/the-ninety-names/static/js/runtime-main.ff3543b7.js.map",
-    "static/css/2.f778aee8.chunk.css": "/the-ninety-names/static/css/2.f778aee8.chunk.css",
-    "static/js/2.1fe310cc.chunk.js": "/the-ninety-names/static/js/2.1fe310cc.chunk.js",
-    "static/js/2.1fe310cc.chunk.js.map": "/the-ninety-names/static/js/2.1fe310cc.chunk.js.map",
-    "index.html": "/the-ninety-names/index.html",
-    "precache-manifest.dd976f75cf7c1a96ca685f9d7eadd99c.js": "/the-ninety-names/precache-manifest.dd976f75cf7c1a96ca685f9d7eadd99c.js",
-    "service-worker.js": "/the-ninety-names/service-worker.js",
-    "static/css/2.f778aee8.chunk.css.map": "/the-ninety-names/static/css/2.f778aee8.chunk.css.map",
-    "static/css/main.5fd1c47d.chunk.css.map": "/the-ninety-names/static/css/main.5fd1c47d.chunk.css.map",
-    "static/js/2.1fe310cc.chunk.js.LICENSE.txt": "/the-ninety-names/static/js/2.1fe310cc.chunk.js.LICENSE.txt",
-    "static/media/card.styles.css": "/the-ninety-names/static/media/AAAGoldenLotus Stg1_Ver1 Regular.57502ab1.ttf",
-    "static/media/app.styles.css": "/the-ninety-names/static/media/UTM Beautiful Caps.d7baf1b4.woff",
-    "static/media/video.png": "/the-ninety-names/static/media/video.ab6501cd.png"
+    "main.css": "/asma-ul-husna/static/css/main.c98442ea.chunk.css",
+    "main.js": "/asma-ul-husna/static/js/main.6ecb10de.chunk.js",
+    "main.js.map": "/asma-ul-husna/static/js/main.6ecb10de.chunk.js.map",
+    "runtime-main.js": "/asma-ul-husna/static/js/runtime-main.f490244b.js",
+    "runtime-main.js.map": "/asma-ul-husna/static/js/runtime-main.f490244b.js.map",
+    "static/css/2.f778aee8.chunk.css": "/asma-ul-husna/static/css/2.f778aee8.chunk.css",
+    "static/js/2.089313f5.chunk.js": "/asma-ul-husna/static/js/2.089313f5.chunk.js",
+    "static/js/2.089313f5.chunk.js.map": "/asma-ul-husna/static/js/2.089313f5.chunk.js.map",
+    "index.html": "/asma-ul-husna/index.html",
+    "precache-manifest.07fab85993d9ef1b7ea50ea1e39f5d2f.js": "/asma-ul-husna/precache-manifest.07fab85993d9ef1b7ea50ea1e39f5d2f.js",
+    "service-worker.js": "/asma-ul-husna/service-worker.js",
+    "static/css/2.f778aee8.chunk.css.map": "/asma-ul-husna/static/css/2.f778aee8.chunk.css.map",
+    "static/css/main.c98442ea.chunk.css.map": "/asma-ul-husna/static/css/main.c98442ea.chunk.css.map",
+    "static/js/2.089313f5.chunk.js.LICENSE.txt": "/asma-ul-husna/static/js/2.089313f5.chunk.js.LICENSE.txt",
+    "static/media/card.styles.css": "/asma-ul-husna/static/media/AAAGoldenLotus Stg1_Ver1 Regular.57502ab1.ttf",
+    "static/media/app.styles.css": "/asma-ul-husna/static/media/UTM Beautiful Caps.d7baf1b4.woff",
+    "static/media/video.png": "/asma-ul-husna/static/media/video.ab6501cd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.ff3543b7.js",
+    "static/js/runtime-main.f490244b.js",
     "static/css/2.f778aee8.chunk.css",
-    "static/js/2.1fe310cc.chunk.js",
-    "static/css/main.5fd1c47d.chunk.css",
-    "static/js/main.12c63807.chunk.js"
+    "static/js/2.089313f5.chunk.js",
+    "static/css/main.c98442ea.chunk.css",
+    "static/js/main.6ecb10de.chunk.js"
   ]
 }
