@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed7f320e44eac9da635f1d50a0ea6348",
+    "revision": "7933f0da9ae99a9c37cecae5e7a00c3a",
     "url": "/the-ninety-names/index.html"
   },
   {
-    "revision": "1b7973ac7d4a9ce14577",
-    "url": "/the-ninety-names/static/css/2.cc2d33b2.chunk.css"
+    "revision": "fd2217deeb4e5997d910",
+    "url": "/the-ninety-names/static/css/2.f778aee8.chunk.css"
   },
   {
-    "revision": "02c2f56e9abee9de1e39",
-    "url": "/the-ninety-names/static/css/main.ffb7d2e6.chunk.css"
+    "revision": "c3d9cada06d2dae14907",
+    "url": "/the-ninety-names/static/css/main.5fd1c47d.chunk.css"
   },
   {
-    "revision": "1b7973ac7d4a9ce14577",
+    "revision": "fd2217deeb4e5997d910",
     "url": "/the-ninety-names/static/js/2.1fe310cc.chunk.js"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-ninety-names/static/js/2.1fe310cc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "02c2f56e9abee9de1e39",
-    "url": "/the-ninety-names/static/js/main.52306dec.chunk.js"
+    "revision": "c3d9cada06d2dae14907",
+    "url": "/the-ninety-names/static/js/main.12c63807.chunk.js"
   },
   {
     "revision": "8a54deacf0e069b09079",
