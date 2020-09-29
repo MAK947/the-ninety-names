@@ -1,8 +1,8 @@
 {
-  "name": "the-ninety-names",
+  "name": "asma-ul-husna",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://mak947.github.io/the-ninety-names",
+  "homepage": "http://mak947.github.io/asma-ul-husna",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
@@ -13,7 +13,7 @@
     "react-card-flip": "^1.0.11",
     "react-dom": "^16.13.1",
     "react-loader-spinner": "^3.1.14",
-    "react-scripts": "3.4.1",
+    "react-scripts": "^3.4.3",
     "tachyons": "^4.12.0",
     "uuid": "^8.2.0"
   },
